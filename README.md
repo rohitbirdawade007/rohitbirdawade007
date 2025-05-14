@@ -21,7 +21,7 @@
 ### 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,raspberrypi,tensorflow,sklearn,arduino,github,kaggle,git" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,raspberrypi,tensorflow,sklearn,arduino,github,git" />
 </p>
 
 ---
