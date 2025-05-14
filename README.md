@@ -61,14 +61,7 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohitbirdawade&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbirdawade&theme=dracula" />
-</p>
-
----
 
 ### 🌐 Let's Connect
 
