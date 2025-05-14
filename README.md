@@ -1,4 +1,3 @@
-<!-- Header Section -->
 <h1 align="center">👋 Hey there, I'm Rohit Sandip Birdawade</h1>
 <h3 align="center">🧠 Computer Science Engineer | 💻 Data & ML Enthusiast | 🌱 Lifelong Learner</h3>
 
@@ -10,7 +9,7 @@
 
 ### 🧾 About Me
 
-🎓 B.E. in Computer Science Engineering — *Rajgad Dnyanpeeth's Shivajiraje College of Engineering (2025)*  
+🎓 Final-year B.E. Computer Science student  
 📍 Baramati, Pune, Maharashtra, India  
 🧠 Passionate about Data Science, AI, ML, Deep Learning, and IoT  
 🌍 I believe in *innovation, collaboration, and purpose-driven technology*  
@@ -30,17 +29,14 @@
 ### 🚀 Projects & Internships
 
 #### 🔍 **Internships**
-- 🧪 *InnoByte Services* – Data Analysis on Amazon Transactions  
-  → Visualized sales trends using Python, Keras, Matplotlib  
-- 📊 *Navodita Infotech* – Customer Segmentation using ML Models  
-- 🤖 *Learnalytics Tech Academy* – Deep Learning Projects using CNN, DenseNet201, ResNet101  
-- 📈 *PHN Technology Pvt Ltd* – Data Science with Python
+- 🧪 *InnoByte Services* – Amazon sales data analysis with ML & visualizations  
+- 📊 *Navodita Infotech* – Customer segmentation using data science techniques  
+- 🤖 *Learnalytics Tech Academy* – Deep learning models (CNN, DenseNet201, ResNet101)  
+- 📈 *PHN Technology Pvt Ltd* – Real-world ML projects using Python & Google Colab
 
 #### 💡 **Key Projects**
-- 🗳️ **Smart Electronic Voting Machine (SEVM)**  
-  → Built with Raspberry Pi, VVPAT, Computer Vision  
-- 🚽 **Smart Washroom for Seniors & Patients**  
-  → IoT system for automation, safety, and accessibility
+- 🗳️ **Smart Electronic Voting Machine (SEVM)** — Raspberry Pi + VVPAT + CV  
+- 🚽 **Smart Washroom for Seniors & Patients** — Arduino-based IoT automation
 
 ---
 
@@ -62,7 +58,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="mailto:Rohitbirdawade2875@gmail.com">
@@ -75,10 +71,12 @@
 
 ---
 
+### 🧠 AI + Data Visualization
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+  <img src="https://i.imgur.com/eF1Qh4N.gif" alt="AI & Data Visualization" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=rohitbirdawade.rohitbirdawade" alt="visitors"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=rohitbirdawade007.rohitbirdawade007" alt="visitors"/>
 </p>
