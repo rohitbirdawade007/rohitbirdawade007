@@ -71,12 +71,4 @@
 
 ---
 
-### 🧠 AI + Data Visualization
 
-<p align="center">
-  <img src="https://i.imgur.com/eF1Qh4N.gif" alt="AI & Data Visualization" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=rohitbirdawade007.rohitbirdawade007" alt="visitors"/>
-</p>
